@@ -1,12 +1,13 @@
 ## Hi there 👋
-### Hi there 👋
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vewake&theme=dracula)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vewake&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vewake&theme=dracula&show_icons=true&include_all_commits=true)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vewake&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vewake&theme=dracula)](https://git.io/streak-stats)
 
 <!--
 **vewake/vewake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
