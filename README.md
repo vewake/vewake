@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### Hi there 👋
-![Viveks's GitHub stats](https://github-readme-stats.vercel.app/api?username=ve&theme=dracula&show_icons=true&include_all_commits=true)
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vewake&theme=dracula&show_icons=true&include_all_commits=true)
 
 
 
